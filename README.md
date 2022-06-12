@@ -1,6 +1,6 @@
 >“Those who can imagine anything, can create the impossible.” – Alan Turing
 >
->「能够想像任何事的人，可以创造不可能。」– 艾伦·图灵
+>「想象力丰富的人能够创造不可能。」– 艾伦·图灵
 
 ### 嗨  👋
 
