@@ -16,13 +16,26 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-75878a?style=flat-square&logo=vue.js&logoColor=#4FC08D)
 ![Python](https://img.shields.io/badge/-Python-abc88b?style=flat-square&logo=Python)
 ![Flask](https://img.shields.io/badge/-Flask-DB3552?style=flat-square&logo=Flask&logoColor=000000)
+![Git](https://img.shields.io/badge/-Git-4FC08D?style=flat-square&logo=Git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=333333)
 
 ### 学习ing  📑
 
-![Sass](https://img.shields.io/badge/-Sass-skyblue?style=flat-square&logo=sass)
+![Node.js](https://img.shields.io/badge/-Node.js-FEC111?style=flat-square&logo=Node.js)
+![npm](https://img.shields.io/badge/-npm-41BDF5?style=flat-square&logo=npm)
+![yarn](https://img.shields.io/badge/-yarn-6CAC4D?style=flat-square&logo=yarn)
+![Express](https://img.shields.io/badge/-Express-00B388?style=flat-square&logo=Express)
+![Koa](https://img.shields.io/badge/-Koa-557C94?style=flat-square&logo=Koa)
+![Sass](https://img.shields.io/badge/-Sass-0052CC?style=flat-square&logo=sass)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-9999FF?style=flat-square&logo=TailwindCSS)
 ![Webpack](https://img.shields.io/badge/-Webpack-75878a?style=flat-square&logo=webpack)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=FEC111)
+![rollup.js](https://img.shields.io/badge/-rollup-FFCB36?style=flat-square&logo=rollup.js&logoColor=EC4A3F)
+![Babel](https://img.shields.io/badge/-Babel-148EFF?style=flat-square&logo=babel)
 ![Jest](https://img.shields.io/badge/-Jest-green?style=flat-square&logo=jest&logoColor=C21325)
-![Jest](https://img.shields.io/badge/-Babel-148EFF?style=flat-square&logo=babel)
+![nginx](https://img.shields.io/badge/-nginx-0ECAD4?style=flat-square&logo=nginx)
+![docker](https://img.shields.io/badge/-docker-F5455C?style=flat-square&logo=docker)
+
 
 ### Github Stats 🏆
 
